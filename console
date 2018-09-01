@@ -7,3 +7,8 @@ require dirname(__FILE__).'/vendor/Sequence/Application.php';
 
 $app = new Sequence\Application('anime', 'prod', true);
 $app->run(true);
+
+
+
+Jak zainstalować to u siebie, animezone?
+  prosze o kontakt: basskamis@gmail.com 
